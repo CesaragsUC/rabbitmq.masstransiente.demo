@@ -22,6 +22,7 @@ This repository contains a **Proof of Concept (POC)** demonstrating the integrat
 * Docker – Facilitates the deployment and execution of RabbitMQ.
 * Serilog – Structured logging for monitoring.
 
-  ![image](https://github.com/user-attachments/assets/02907df2-15fe-407a-9675-850cdb5a9c7d)
+![image](https://github.com/user-attachments/assets/f1ac95a4-5b23-480c-a28e-924e5566b8e0)
+
 
 ## ⭐ Give a Star
